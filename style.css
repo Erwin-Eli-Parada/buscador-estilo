@@ -1,0 +1,25 @@
+.search-bar{
+    border-color: #e9e4e49c;
+    border-radius: 30px;
+    display: flex;
+    gap: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 2% .5%;
+}
+
+.search-bar #search{
+    flex: auto;
+    border: none;
+    outline: none;
+}
+
+.search-bar .actions button{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.search-bar .actions button i{
+    font-size: 1.3em;
+}
+
