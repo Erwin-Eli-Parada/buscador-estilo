@@ -28,3 +28,10 @@
     font-size: 1.3em;
 }
 
+.search-bar .actions button:hover i{
+    color: #0000ff83;
+}
+
+.search-bar .actions button:focus i{
+    color: blue;
+}
